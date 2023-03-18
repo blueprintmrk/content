@@ -54,6 +54,6 @@ Web applications include a lot of JavaScript. Many applications are built with a
 
 ## Conclusion
 
-While optimizing your media files and scripts will get you very far along in terms of web performance optimization, everything that touches a web pages impacts performance. In the next article we take a look at some HTML features that can impact performance, including some attributes specifically created to improve performance.
+While optimizing your media files and scripts will get you very far along in terms of web performance optimization, everything that touches a web pages impacts performance. Fastly In the next article we take a look at some HTML features that can impact performance, including some attributes specifically created to improve performance.
 
 {{PreviousMenuNext("Learn/Performance/video", "Learn/Performance/HTML", "Learn/Performance")}}
